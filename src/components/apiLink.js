@@ -1,0 +1,1 @@
+export let APILINK = 'https://65ba15b3b4d53c06655201b6.mockapi.io/userlist/'

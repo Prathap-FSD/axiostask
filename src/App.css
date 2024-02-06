@@ -1,0 +1,96 @@
+.navBg{
+  background-color:  #7634fa;
+}
+.navbar-brand, .nav-link{
+  color: #fff;
+  font-weight: 600;
+}
+.navbar-brand:hover{
+  color: #fff;
+}
+.nav-link:hover{
+  color: #fff;
+}
+.active{
+  color:rgb(255, 174, 0) !important;
+  font-weight: 800 !important;
+}
+.tbl{
+  display: flex;
+  justify-content: center;
+  margin-top: 18px;
+}
+.card-head img{
+  width: 40%;
+}
+.nameEmail p{
+  text-align: center;
+  font-size: 12px;
+  margin-bottom: 0;
+  margin-top: 5px;
+}
+.addres{
+  margin-top: 15px;
+}
+.address{
+font-size: 12px;
+}
+.card{
+  height: 90%;
+}
+.content{
+  color: #5f5f5f !important;
+}
+.bi-pencil-square{
+  color: green;
+  cursor: pointer;
+}
+.bi-trash-fill{
+  color: red;
+  cursor: pointer;
+}
+.navbar{
+  position: sticky;
+    top: 0;
+    z-index: 1;
+  }
+tr:hover{
+    background-color:#5420bb !important;
+  }
+thead > tr> th{
+  background-color:#5420bb !important;
+  color: #fff !important;
+}
+tr{
+  border-bottom: 1px solid #b79ceb;
+}
+.frmPage{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.formBg{
+  box-shadow: 0px 0px 5px #5420bb;
+  padding: 20px;
+}
+.formBg > h5{
+  color: #5420bb;
+  font-weight: 700;
+}
+.frm-btn{
+  width: 100%;
+  background-color: #5420bb;
+  color: #fff;
+  font-weight: 600;
+  border: 0;
+}
+.frm-btn:hover{
+  background-color: #330296;
+  color: #fff;
+}
+.frm-btn:active{
+  background-color: #330296 !important;
+  color: #fff !important;
+  border: 0 !important;
+}
